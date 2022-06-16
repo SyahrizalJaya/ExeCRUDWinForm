@@ -1,0 +1,11 @@
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\bin\Debug\ExeCRUDWinForm.exe.config
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\bin\Debug\ExeCRUDWinForm.exe
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\bin\Debug\ExeCRUDWinForm.pdb
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\obj\Debug\ExeCRUDWinForm.csproj.AssemblyReference.cache
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\obj\Debug\ExeCRUDWinForm.Form1.resources
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\obj\Debug\ExeCRUDWinForm.Properties.Resources.resources
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\obj\Debug\ExeCRUDWinForm.csproj.GenerateResource.cache
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\obj\Debug\ExeCRUDWinForm.csproj.CoreCompileInputs.cache
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\obj\Debug\ExeCRUDWinForm.exe
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\obj\Debug\ExeCRUDWinForm.pdb
+C:\Users\JAYA\source\repos\ExeCRUDWinForm\ExeCRUDWinForm\obj\Debug\ExeCRUDWinForm.Form2.resources
